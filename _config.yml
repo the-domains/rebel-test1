@@ -1,7 +1,7 @@
 name: Rebel Test1
 favicon: null
-layout_spectrum: 0.43053549085743725
-typography_spectrum: 0.08823882252909243
+layout_spectrum: 0.71601
+typography_spectrum: 0.72649
 title: Rebel Test1
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.25
+    - '#cc0019'
+    - '#ffffff'
+    - '#ea8f97'
+    - '#d84857'
+    - '#f5cbcf'
+  brandStrength: 0.3125
   lightness: 0.35641228989697993
   saturation: 0.5666666841134429
   rhythmicContrast: 0.78078218922019
