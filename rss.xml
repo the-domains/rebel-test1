@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rebel Test1]]></title>
+        <description><![CDATA[Rebel Test1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Dec 2015 17:39:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Unsere Agentur]]></title>
+            <description><![CDATA[<article><h1>Unsere Agentur</h1><p>Rebel Communication wurde im Juni 2008 gegründet. Unser Fokus liegt in der Entwicklung und Umsetzung von innovativen Konzepten und Kommunikationsmassnahmen.  Als junge Agentur leben wir den Zeitgeist der multimedialen Kultur und fühlen uns in den klassischen Disziplinen ebenso zuhause wie in der digitalen Welt.</p></article>]]></description>
+            <link>http://www.rebelcom.ch/#!agentur/c240r</link>
+            <guid isPermaLink="false">2cd7bda9-4c26-4524-aefb-1b47bca59cef</guid>
+            <pubDate>Wed, 09 Dec 2015 17:39:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
